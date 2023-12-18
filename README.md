@@ -8,11 +8,13 @@
 
 <div align="center">
  
- 🔭 I currently work for **Fortylines**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ - 🔭 I’m currently working on **HR system**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/BakuEmilov/BakuEmilov/issues)**
+- 🌱 I’m currently learning **Docker**
+
+- 💬 Ask me about **Next.js, React, RTK query**
+
+- 📫 How to reach me **emilovbaku530@gmail.com**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
