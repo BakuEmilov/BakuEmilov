@@ -6,7 +6,7 @@
 
 <br/>
 
-<div align="center" style="font-size: 20px;">
+<div align="center">
  
  - 🔭 I’m currently working on **HR system**
 
