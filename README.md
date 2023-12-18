@@ -14,8 +14,6 @@
 
 - 💬 Ask me about **Next.js, React, RTK query**
 
-- 📫 How to reach me **emilovbaku530@gmail.com**
-
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
@@ -51,7 +49,8 @@
    <img width="600" src="snake.svg" alt="snake"/>
   </p>
   
-  <br/><br/><br/>
+  <br/>
+<hr/>
 </div>
 
 
