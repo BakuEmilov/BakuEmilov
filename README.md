@@ -39,7 +39,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,bootstrap,tailwind,mui,netlify,wordpress,express,firebase,figma,jira" /><br>
 </div>
 
-<br/>
 <hr/>
 
 <div align="center">
@@ -52,9 +51,6 @@
   <br/>
 <hr/>
 </div>
-
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
