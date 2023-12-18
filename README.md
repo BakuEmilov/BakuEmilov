@@ -32,7 +32,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2  align="center">⚒️ LANGUAGES-FRAMEWORKS-TOOLS ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,redux,nextjs,javascript,typescript,html,css,sass,vscode,github,gitlab,git" />  
@@ -42,7 +42,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 MY CONTRIBUTIONS 🐍</h2>
   <br>
   <p align="center">
    <img width="600" src="snake.svg" alt="snake"/>
@@ -52,7 +52,7 @@
 <hr/>
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ STATS ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
