@@ -45,7 +45,7 @@
   <h2>🐍 MY CONTRIBUTIONS 🐍</h2>
   <br>
   <p align="center">
-   <img width="800" src="snake.svg" alt="snake"/>
+   <img width="790" src="snake.svg" alt="snake"/>
   </p>
   
   <br/>
